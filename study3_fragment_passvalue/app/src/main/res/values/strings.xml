@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">study3_fragment_passvalue</string>
+    <string name="hint_content">点击输入</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

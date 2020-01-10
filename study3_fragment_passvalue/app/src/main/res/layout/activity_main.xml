@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_activity_to_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="activity向fragment传值"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/btn_fragment_to_activity_"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fragment向activity传值"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:id="@+id/btn_fragment_to_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fragment向fragment传值"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        />
+
+</LinearLayout>
