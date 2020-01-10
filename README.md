@@ -1,0 +1,2 @@
+# FragmentActivityPassValue
+自学，用来记录fragment和activity之间的传值
